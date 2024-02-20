@@ -6,4 +6,3 @@ Small project regarding the monty hall problem. This was a personal project that
 
 I have managed to confirm the mathematical results that can be calculated analytically.
 
-The project is done, but it may require small corrections in formality
